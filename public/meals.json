@@ -1,0 +1,72 @@
+{
+    "day1": {
+        "meal1": {
+            "name": "Oatmeal breakfast",
+            "recipe": {
+                "ingredient1": "oatmeal",
+                "ingredient2": "blueberry",
+                "ingredient3": "milk"
+            }
+        }
+    },
+    "day2": {
+        "meal1": {
+            "name": "Hamburger",
+            "recipe": {
+                "ingredient1": "pickle",
+                "ingredient2": "beef",
+                "ingredient3": "cheese"
+            }
+        }
+    }, 
+    "day3": {
+        "meal1": {
+            "name": "Tuna steak",
+            "recipe": {
+                "ingredient1": "tuna",
+                "ingredient2": "mustard",
+                "ingredient3": "soy"
+            }
+        }
+    }, 
+    "day4": {
+            "meal1": {
+            "name": "Lasagna",
+            "recipe": {
+                "ingredient1": "Noodles",
+                "ingredient2": "Sauce",
+                "ingredient3": "cheese"
+            }
+        }
+    },
+    "day5": {
+        "meal1": {
+            "name": "Turkey",
+            "recipe": {
+                "ingredient1": "turkey",
+                "ingredient2": "cranberry",
+                "ingredient3": "stuffing"
+            }
+        }
+    }, 
+    "day6": {
+        "meal1": {
+            "name": "Eggs",
+            "recipe": {
+                "ingredient1": "bread",
+                "ingredient2": "eggs",
+                "ingredient3": "cheese"
+            }
+        }
+    }, 
+    "day7": {
+        "meal1": {
+            "name": "Salad",
+            "recipe": {
+                "ingredient1": "Arugala",
+                "ingredient2": "walnuts",
+                "ingredient3": "Evoo"
+            }
+        }
+    }
+}
